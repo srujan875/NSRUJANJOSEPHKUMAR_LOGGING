@@ -1,0 +1,18 @@
+2020-02-26 23:59:32,295(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):16 - Simple and Compound Interest Calculation
+2020-02-26 23:59:40,044(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):19 - Prinicpal Amount is: 12035.0
+2020-02-26 23:59:43,462(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):21 - Rate of Interest is:2.0
+2020-02-26 23:59:46,923(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):23 - Time period (in years)15.0
+2020-02-26 23:59:46,925(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):27 - Simple Interest for the given data is :3610.5
+2020-02-26 23:59:46,926(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):32 - Compund Interest for the given data is:16197.525451730904
+2020-02-26 23:59:54,145(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):16 - Simple and Compound Interest Calculation
+2020-02-26 23:59:57,070(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):19 - Prinicpal Amount is: 1235.0
+2020-02-26 23:59:58,386(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):21 - Rate of Interest is:1.0
+2020-02-26 23:59:59,537(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):23 - Time period (in years)1.0
+2020-02-26 23:59:59,538(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):27 - Simple Interest for the given data is :12.35
+2020-02-26 23:59:59,540(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):32 - Compund Interest for the given data is:1247.35
+2020-02-27 00:00:04,551(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):16 - Simple and Compound Interest Calculation
+2020-02-27 00:00:07,818(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):19 - Prinicpal Amount is: 1246315.0
+2020-02-27 00:00:10,275(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):21 - Rate of Interest is:1.0
+2020-02-27 00:00:11,838(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):23 - Time period (in years)10.0
+2020-02-27 00:00:11,839(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):27 - Simple Interest for the given data is :124631.5
+2020-02-27 00:00:11,841(YYYY-MM-DD HH:mm:ss) INFO  SimpleAndCompoundInterestApplication.class(1):32 - Compund Interest for the given data is:1376707.1242318654

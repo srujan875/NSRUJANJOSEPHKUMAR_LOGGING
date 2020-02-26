@@ -1,0 +1,12 @@
+2020-02-26 23:58:43,741(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):16 - Area of Construction is:100.0 in sq.mts
+2020-02-26 23:58:43,746(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):17 - Type of Materials available 1:standard materials 2:above standard materials 3:high standard materials 4:high standard and fully automated
+2020-02-26 23:58:46,179(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):22 - User selected for the material of type: standard materials
+2020-02-26 23:58:46,179(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):41 - Total Cost for the construction of house is:120000.0(Rs/-)
+2020-02-26 23:58:56,512(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):16 - Area of Construction is:253.5 in sq.mts
+2020-02-26 23:58:56,520(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):17 - Type of Materials available 1:standard materials 2:above standard materials 3:high standard materials 4:high standard and fully automated
+2020-02-26 23:58:58,681(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):37 - User selected for the material of type: high standard materials and fully automated
+2020-02-26 23:58:58,682(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):41 - Total Cost for the construction of house is:633750.0(Rs/-)
+2020-02-26 23:59:10,229(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):16 - Area of Construction is:145.36 in sq.mts
+2020-02-26 23:59:10,238(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):17 - Type of Materials available 1:standard materials 2:above standard materials 3:high standard materials 4:high standard and fully automated
+2020-02-26 23:59:12,012(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):22 - User selected for the material of type: standard materials
+2020-02-26 23:59:12,012(YYYY-MM-DD HH:mm:ss) INFO  HouseConstructionApplication.class(1):41 - Total Cost for the construction of house is:174432.00000000003(Rs/-)
